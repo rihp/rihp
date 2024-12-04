@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Roberto, and welcome to my coding portfolio. I'm curtrently focused on Artificial Intelligence continuous learning and Python, and finding creative solutions to complex challenges for Planning Autonomous Agents like AutoGPT. 🧪🤖
+Welcome to my coding portfolio. I'm curtrently focused on Artificial Intelligence continuous learning and Python, and finding creative solutions to complex challenges for Planning Autonomous Agents like AutoGPT. 🧪🤖
 
 Make sure to browse the pinned repositories below.
 
