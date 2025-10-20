@@ -3,7 +3,7 @@ Welcome to my coding portfolio. I'm focused on Artificial Intelligence continuou
 
 Make sure to browse the pinned repositories below.
 
-- 🔭 I’m currently working on novel AI implementations with Python
+- 🔭 I’m currently working on novel AI implementations and research
 - 📫 How to reach me: 
   -  LinkedIn: https://www.linkedin.com/in/robertohenriquez/
 
